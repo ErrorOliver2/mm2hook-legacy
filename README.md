@@ -1,10 +1,12 @@
-MM2Hook
+MM2Hook Legacy
 =======
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/Fireboyd78/mm2hook?branch=master&svg=true)](https://ci.appveyor.com/project/Fireboyd78/mm2hook)
 
 A simple DLL-injection module for hooking into Midtown Madness 2, allowing for further control of the game.
 
 Also included are complimentary bug-fixes for random crashes, as well as a fix for the infamous **heap overrun** error.
+## Why the fork?
+It plans to make legacy versions of Windows (specifically Windows XP) to work with MM2Hook.
 
 ## Features
 <img align="right" src="https://i.imgur.com/A5ZMdzB.png" alt="Discord Rich Presence support for MM2Hook" />
