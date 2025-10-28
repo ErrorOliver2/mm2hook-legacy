@@ -8,7 +8,9 @@ Also included are complimentary bug-fixes for random crashes, as well as a fix f
 ## Why the fork?
 It plans to make legacy versions of Windows (specifically Windows XP) to work with MM2Hook.<br>
 Technical Details: It tries to downport the Visual Studio version to 2010 to allow it to be compilable to Windows XP.<br>
-I was going to use Visual Studio 2013, though idk if it'll make a big difference?? Though maybe it does, idk.
+I was going to use Visual Studio 2013, though idk if it'll make a big difference?? Though maybe it does, idk.<br>
+Also, 2015 has a few things that may be helpful but then again there's a few things it doesn't have I think..?<br>
+why did i start this fork 😭 (boredom...)
 
 ## Features
 <img align="right" src="https://i.imgur.com/A5ZMdzB.png" alt="Discord Rich Presence support for MM2Hook" />
