@@ -7,7 +7,8 @@ A simple DLL-injection module for hooking into Midtown Madness 2, allowing for f
 Also included are complimentary bug-fixes for random crashes, as well as a fix for the infamous **heap overrun** error.
 ## Why the fork?
 It plans to make legacy versions of Windows (specifically Windows XP) to work with MM2Hook.<br>
-Technical Details: It tries to downport the Visual Studio version to 2010 to allow it to be compilable to Windows XP.
+Technical Details: It tries to downport the Visual Studio version to 2010 to allow it to be compilable to Windows XP.<br>
+I was going to use Visual Studio 2013, though idk if it'll make a big difference?? Though maybe it does, idk.
 
 ## Features
 <img align="right" src="https://i.imgur.com/A5ZMdzB.png" alt="Discord Rich Presence support for MM2Hook" />
